@@ -1,0 +1,20 @@
+# Host-root robots for https://burakkyy.github.io/
+# The project file at /dubsee-site/robots.txt does not replace this one.
+# app-ads.txt stays published and is allowed.
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://burakkyy.github.io/dubsee-site/sitemap.xml
