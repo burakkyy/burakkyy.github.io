@@ -17,6 +17,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://burakkyy.github.io/dubsee-site/sitemap.xml
-Sitemap: https://burakkyy.github.io/dubsee-site/sitemap.txt
-Sitemap: https://burakkyy.github.io/dubsee-site/sitemap-generated.xml
+Sitemap: https://burakkyy.github.io/sitemap.xml
